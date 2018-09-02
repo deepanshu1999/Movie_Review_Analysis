@@ -1,4 +1,4 @@
-# Movie Sentiment Analysis
+# Movie Review Analysis
 Using Natural Language Processing algorithms to analyse each and every movie review and judge whether the person liked the movie or not.
 ## Dataset
 - #### Cardinality
