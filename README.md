@@ -7,7 +7,7 @@ Using Natural Language Processing algorithms to analyse each and every movie rev
  
  Dataset contains total 50000 text files arranged in different folders. Each text file has the review of a user in plain english.
 Link: [ai.stanford.edu/~amaas/data/sentiment/aclImdb_v1.tar.gz](ai.stanford.edu/~amaas/data/sentiment/aclImdb_v1.tar.gz)
-# Tech:
+## Tech:
 - [scikit-learn](http://scikit-learn.org/stable/) A free machine learning library for python
 - [Natural Language Toolkit](https://www.nltk.org/) NLTK is a leading platform for building Python programs to work with human language data.
 - [Python](www.python.org)
